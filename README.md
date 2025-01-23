@@ -6,3 +6,6 @@
 
  <h3>Task 2</h3>
   -Histogram Equalization<br>
+
+<h3>Task 3</h3>
+  -Bit Plane Slicing<br>
