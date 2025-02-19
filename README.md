@@ -9,3 +9,6 @@
 
 <h3>Task 3</h3>
   -Bit Plane Slicing<br>
+
+<h3>Task 4</h3>
+  -Shnnon-Fano Coding
