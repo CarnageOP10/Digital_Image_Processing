@@ -12,3 +12,6 @@
 
 <h3>Task 4</h3>
   -Shnnon-Fano Coding
+
+<h3>Task 5</h3>
+  -Discrete Wavelet Transfrom 
